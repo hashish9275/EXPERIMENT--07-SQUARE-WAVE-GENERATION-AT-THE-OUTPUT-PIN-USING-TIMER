@@ -378,9 +378,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-
-
-
+![exp 7 3](https://github.com/hashish9275/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118707521/46f2bad0-6383-4499-ab53-b85e6c57b209)
 
 
 
